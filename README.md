@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A YouTube playlist shuffler**
 
-- 🌱 I’m currently learning **React, Spring Framework, .NET Framework, deploying a web app for people to access**
+- 🌱 I’m currently learning **React, Spring Framework, .NET Framework, and how to deploy a web app for people to access**
 
 - 🤝 I’m looking for help with **learning as much about software development!**
 
