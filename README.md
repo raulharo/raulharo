@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raul A Haro</h1>
-<h3 align="center">Software Developer, coding boot camp graduate, Computer Science student, and hobbyist photographer!</h3>
+<h3 align="center">Software developer, coding boot camp graduate, Computer Science student, and hobbyist photographer!</h3>
 
 - 🔭 I’m currently working on **A YouTube playlist shuffler**
 
